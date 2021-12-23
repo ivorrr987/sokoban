@@ -18,3 +18,4 @@ sokoban.py를 실행하여 게임을 시작한다.
   - d : RIGHT
   - r : RESET
   - q : QUIT 
+  - c : CHECK(움직일 수 없는 공이 있는지 확인해준다.)
